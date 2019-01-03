@@ -1,4 +1,4 @@
-# Assignment 4 Part III
+# Image Quantization using Kmeans and Image compression using PCA
 
 ## Pre-requsite:
 Make sure you have [anaconda](https://www.anaconda.com/), [scikit-learn](https://scikit-learn.org/stable/install.html) and [scikit-image](https://scikit-image.org/download)  
