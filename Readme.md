@@ -9,8 +9,7 @@ Used kmeans clustering to create centroid from sample of 1000 points in image ar
 
 ### How to Run:
 
-1. cd into `path/to/partIII`
-2. run `python quantize.py <imagefilePath> <valueOfK>`
+1. run `python quantize.py <imagefilePath> <valueOfK>`
     
     example `python quantize.py images/image3.jpg 32`
 
